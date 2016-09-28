@@ -53,6 +53,7 @@ public class MyFragment extends Fragment implements View.OnClickListener {
     }
 
     class Student{
+
         int age = 30;
         String address = "深圳";
     }
